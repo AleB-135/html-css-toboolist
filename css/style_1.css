@@ -71,10 +71,12 @@ body {
 
 .green {
     border: 1px solid green;
+    color: green;
 }
 
 .red {
     border: 1px solid red;
+    color: red;
 }
 .category {
     border-radius: 20px;
