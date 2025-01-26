@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(229, 229, 229);
+    font-family: sans-serif;
+}
+
+.logo {
+    width: 100%;
+    background-color: white;
+}
+
+.top_row {
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px;
+    width: 80%;
+    height: 25px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+#buttons {
+    margin-left: 40px;
+}
+
+#task,
+#section {
+    border-radius: 5px;
+    padding: 3px 10px 3px 10px;
+    border-color: rgb(246, 246, 246);
+   
+}
+
+#task {
+    background-color: rgb(27, 166, 221);
+    
+}
+
+#section {
+    background-color: white;
+}
+
+ul {
+    list-style: none;
+    margin: 10px 0 0 -20px;
+}
+
+.container {
+    width: 81%;
+    margin: 2px auto;
+}
+
+.appointments {
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 5px;
+}
+
+.circle {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.green {
+    border: 1px solid green;
+    color: green;
+}
+
+.red {
+    border: 1px solid red;
+    color: red;
+}
+
+.meeting {
+    font-size: large;
+}
+
+.tag {
+    color: white;
+    display: inline-block;
+    padding: 5px 16px;
+    border-radius: 30px;
+    font-size: small;
+}
+
+.editorial {
+    background-color: rgb(68, 65, 250);
+}
+
+.q1_goals {
+    background-color: rgb(174, 101, 243);
+}
+
+.recruiting {
+    background-color: rgb(69, 201, 128);
+}
+
+.mobile {
+    background-color: orange;
+}
+
+.website {
+    background-color: rgb(255, 73, 155);
+}
+
+.sales {
+    background-color: rgb(131, 255, 77);
+}
