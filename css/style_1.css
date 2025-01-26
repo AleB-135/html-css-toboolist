@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(229, 229, 229);
+    font-family: sans-serif;
+}
+
+.logo,
+.top_row,
+#section,
+.schedule {
+    background-color: white;
+}
+
+.logo {
+    width: 100%;
+}
+
+.top_row {
+    margin: auto;
+    margin-top: 30px;
+    height: 25px;
+}
+
+#buttons {
+    margin-left: 40px;
+}
+
+#task,
+#section {
+    padding: 3px 10px 3px 10px;
+    border-color: rgb(246, 246, 246);
+}
+
+#task {
+    background-color: rgb(27, 166, 221);
+    
+}
+
+.schedule {
+    margin: auto;
+    height: 550px;
+    margin-top: 2px;
+}
+
+.top_row,
+.schedule {
+    width: 1200px;
+    padding: 10px;
+}
+
+#task,
+#section,
+.top_row,
+.schedule {
+    border-radius: 5px;
+}
+
+.meetings {
+    margin-left: 40px;
+}
+
+.circle {
+    display: inline-block;
+    width: 15px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 50%;
+}
+
+.green {
+    border: 1px solid green;
+}
+
+.red {
+    border: 1px solid red;
+}
+.category {
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px;
+    margin: 0 5px 0 5px;
+    color: white;
+    border: none;
+}
+
+#editorial {
+    background-color: rgb(27, 166, 221);
+    
+}
+
+#q1_goals {
+    background-color: rgb(184, 121, 244);
+}
+
+#recruiting {
+    background-color: rgb(62, 223, 148);
+}
+
+#mobile {
+    background-color: orange;
+}
+
+#website {
+    background-color: rgb(250, 89, 186);
+}
+
+#sales {
+    background-color: rgb(130, 197, 31);
+}
